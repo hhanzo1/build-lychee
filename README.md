@@ -18,7 +18,6 @@ chmod +x build-lychee-stack.sh
 **IMPORTANT**
 Update the various variables (ie. MySQL root password, APP_URL, Nginx server_name etc) before running the script!
 ## Usage
-Run the script manually to check it is working as expected, then scheduled via cron.
 ### Run the script
 ```bash
 /home/[USERID]/build-lychee-stack.sh
