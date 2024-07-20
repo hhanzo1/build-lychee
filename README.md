@@ -23,7 +23,7 @@ Update the various variables (ie. MySQL root password, APP_URL, Nginx server_nam
 /home/[USERID]/build-lychee-stack.sh
 ```
 
-Once completed the system should be ready for the Lychee Installation to complete the installation process.
+Once completed the system should be ready for the Lychee Installer to complete the installation process.
 
 Enjoy!
 ## Acknowledgments
